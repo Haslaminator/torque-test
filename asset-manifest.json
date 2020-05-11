@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/torque-test/static/css/main.e9f09b60.chunk.css",
-    "main.js": "/torque-test/static/js/main.9a357d14.chunk.js",
-    "main.js.map": "/torque-test/static/js/main.9a357d14.chunk.js.map",
+    "main.js": "/torque-test/static/js/main.4b5ab158.chunk.js",
+    "main.js.map": "/torque-test/static/js/main.4b5ab158.chunk.js.map",
     "runtime-main.js": "/torque-test/static/js/runtime-main.6ed85e61.js",
     "runtime-main.js.map": "/torque-test/static/js/runtime-main.6ed85e61.js.map",
     "static/js/2.b9e9523c.chunk.js": "/torque-test/static/js/2.b9e9523c.chunk.js",
     "static/js/2.b9e9523c.chunk.js.map": "/torque-test/static/js/2.b9e9523c.chunk.js.map",
     "index.html": "/torque-test/index.html",
-    "precache-manifest.0855f6f5342ca3a232214eb3397623a6.js": "/torque-test/precache-manifest.0855f6f5342ca3a232214eb3397623a6.js",
+    "precache-manifest.538c08aaf9ebe988cacd360cf02c8fea.js": "/torque-test/precache-manifest.538c08aaf9ebe988cacd360cf02c8fea.js",
     "service-worker.js": "/torque-test/service-worker.js",
     "static/css/main.e9f09b60.chunk.css.map": "/torque-test/static/css/main.e9f09b60.chunk.css.map",
     "static/js/2.b9e9523c.chunk.js.LICENSE.txt": "/torque-test/static/js/2.b9e9523c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6ed85e61.js",
     "static/js/2.b9e9523c.chunk.js",
     "static/css/main.e9f09b60.chunk.css",
-    "static/js/main.9a357d14.chunk.js"
+    "static/js/main.4b5ab158.chunk.js"
   ]
 }
