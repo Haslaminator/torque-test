@@ -1,0 +1,40 @@
+.searchbox {
+    margin-top: 70px;
+    margin-bottom: 35px;
+    margin-left: 20px;
+
+    input {
+        margin-left: 10px;
+        margin-top: 30px;
+        font-size: 20px;
+        font-family: 'DM Mono', monospace;
+        width: 350px;
+
+        &:focus {
+        }
+    }
+
+    h1 {
+        margin-left: 10px;
+    }
+
+    label {
+        margin-left: 10px;
+        padding: 10px 10px;
+        text-align: center;
+        border-radius: 10px;
+        box-sizing: border-box;
+        width: 48%;
+        font-size: 20px;
+        cursor: pointer;
+        transition: 0.2s;
+
+        input {
+            display: none;
+        }
+    }
+    .checked {
+        border: 2px #6f9fa8 solid;
+        background-color: #d4f8ff;
+    }
+}

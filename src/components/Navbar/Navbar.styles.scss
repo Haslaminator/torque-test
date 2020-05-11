@@ -1,0 +1,36 @@
+.navbar {
+    overflow: hidden;
+    background-color: #120136;
+    border-bottom: darkgrey solid 2px;
+    display: flex;
+    height: 50px;
+    align-items: center;
+    width: 100%;
+    position: fixed;
+
+    a {
+        float: left;
+        display: block;
+        color: #40bad5;
+        text-align: center;
+        padding: 15px 30px;
+        text-decoration: none;
+        margin-left: 10px;
+
+        &:hover {
+            background-color: #fcbf1e;
+            color: #035aa6;
+        }
+
+        &:last-child {
+            margin-left: auto;
+            margin-right: 50px;
+        }
+    }
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100vw;
+}
