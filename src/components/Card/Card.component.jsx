@@ -6,7 +6,7 @@ const Card = ({ ClientId, ClientName, PhysicalSite, Orders, Units }) => {
         <div className='card'>
             <div className='image-container'>
                 <img
-                    src={`%PUBLIC_URL%/torque-test/img/${ClientId}.png`}
+                    src={`https://haslaminator.github.io/torque-test/img/${ClientId}.png`}
                     alt={ClientName}
                 />
             </div>
