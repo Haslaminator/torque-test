@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9df0f5aa3cc1f560741acdc8ca6ab484",
+    "revision": "17a1f2b2334f4119c9eb273726b9792b",
     "url": "/torque-test/index.html"
   },
   {
-    "revision": "ed959c11b6839eb7d2be",
+    "revision": "a82803662b841398d774",
     "url": "/torque-test/static/css/main.e9f09b60.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/torque-test/static/js/2.b9e9523c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ed959c11b6839eb7d2be",
-    "url": "/torque-test/static/js/main.d7579e28.chunk.js"
+    "revision": "a82803662b841398d774",
+    "url": "/torque-test/static/js/main.e0841f19.chunk.js"
   },
   {
     "revision": "e9c526d2a3997fe6094c",
