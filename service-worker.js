@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/torque-test/precache-manifest.99dff35cece544c6e097d8e8a7f52cd5.js"
+  "/torque-test/precache-manifest.6ffa4980a9851bb8bc6185476c0685e2.js"
 );
 
 self.addEventListener('message', (event) => {
