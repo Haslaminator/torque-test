@@ -1,6 +1,6 @@
 {
+    "homepage": "https://haslaminator.github.io/torque-test",
     "name": "torque-test",
-    "homepage": "https://haslaminator.github.io/",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
