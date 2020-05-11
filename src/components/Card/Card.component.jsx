@@ -5,7 +5,10 @@ const Card = ({ ClientId, ClientName, PhysicalSite, Orders, Units }) => {
     return (
         <div className='card'>
             <div className='image-container'>
-                <img src={`/img/${ClientId}.png`} alt={ClientName} />
+                <img
+                    src={`%PUBLIC_URL%/img/${ClientId}.png`}
+                    alt={ClientName}
+                />
             </div>
 
             <hr />
