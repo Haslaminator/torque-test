@@ -6,7 +6,7 @@ const Card = ({ ClientId, ClientName, PhysicalSite, Orders, Units }) => {
         <div className='card'>
             <div className='image-container'>
                 <img
-                    src={`%PUBLIC_URL%/img/${ClientId}.png`}
+                    src={`%PUBLIC_URL%/torque-test/img/${ClientId}.png`}
                     alt={ClientName}
                 />
             </div>
