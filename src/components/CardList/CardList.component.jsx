@@ -23,11 +23,11 @@ class CardList extends React.Component {
             switch (filterBy) {
                 case 'site':
                     return client.PhysicalSite.toLowerCase().includes(
-                        filterText
+                        filterText.toLowerCase()
                     );
                 case 'client':
                     return client.ClientName.toLowerCase().includes(
-                        filterText
+                        filterText.toLowerCase()
                     );
                 case 'orders':
                     return client.Orders > Number(filterText);
